@@ -1,5 +1,7 @@
 # Discuss
 
+Learned: How to use 'Plugs', 'Controllers', 'Views', 'Schemas', and Postgress to create a responsive web-app
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
